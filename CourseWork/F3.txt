@@ -1,0 +1,64 @@
+Просмотр файла F1.txt
+11 2 -2 4 3 2
+3 4 5 11 4 5
+4 2 -2 3 4 11
+2 3 4 1 5 6
+2 5 -4 2 6 4
+
+Просмотр матрици
+11 2 -2 4 3 2 
+3 4 5 11 4 5 
+4 2 -2 3 4 11 
+2 3 4 1 5 6 
+2 5 -4 2 6 4 
+
+
+Задание 1.1
+
+Наименьший элемент матрици:
+ 1
+
+Задание 1.2
+
+Елементы вектора как среднее арифметическое положительных елементов строк матрици: 
+4.4	5.33333	4.8	3.5	3.8	
+Задание 1.3
+
+Сумма елементов где есть хотя бы один негативный елемент: 
+20	22	15	
+Задание 2.1
+Одномерный массив из квадратов положительных элементов матриц 
+121	4	16	9	4	9	16	25	121	16	25	16	4	9	16	121	4	9	16	1	25	36	4	25	4	36	16	
+Задание 2.2
+
+Новая матрица из столбцов заданной матрицы, которые не содержат ни одного элемента '11' или '22': 
+2 	-2 	3 	
+4 	5 	4 	
+2 	-2 	4 	
+3 	4 	5 	
+5 	-4 	6 	
+Столбы не содержат елементов '11' или '22'.
+Просмотр файла F2.txt
+Java,  JavaScript, C#, l ike a  huge  number  of other popular programming languages, are based on the principles of C++.
+This is why the curriculum of many universities contains a plus-plus course that follows immediately after the C basics.
+For example, the principle of Java, one of the most powerful languages of our time, is quite difficult to understand if you do not start learning from the basics that first appeared in C++.
+In addition, the popular belief is that if you can learn C++, then any other language will not give you any trouble.
+It's kind of like how easy it is to try to switch from manual to automatic and how difficult it is to work the way back.
+Almost all popular programming languages that were invented later have simplified structures and mechanisms.
+The learning process is reduced to mastering syntax and software.
+This creates a whole army of programmers who just don't understand what they are building in half of the code.
+Fundamental lexical elements of a C++ program: tokens, comments, operators, keywords, punctuators, literals.
+Also, file translation, operator precedence/associativity
+
+Задание 3.1
+
+Количество лишних пробелов: 
+4
+Задание 3.2
+
+Все символы из s2 которые не являються буквами и цифрами вставив в средину строки s1 учитывая пробелы: 
+Java,  JavaScript, C#, l ike a  huge  number  of other popul                    -                 .ar programming languages, are based on the principles of C++.
+Задание 4.1
+
+Строка которая имеет самое маленькое слово в тексте: 
+Java,  JavaScript, C#, l ike a  huge  number  of other popular programming languages, are based on the principles of C++.

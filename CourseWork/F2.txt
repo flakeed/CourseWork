@@ -1,0 +1,10 @@
+Java,  JavaScript, C#, l ike a  huge  number  of other popular programming languages, are based on the principles of C++.
+This is why the curriculum of many universities contains a plus-plus course that follows immediately after the C basics.
+For example, the principle of Java, one of the most powerful languages of our time, is quite difficult to understand if you do not start learning from the basics that first appeared in C++.
+In addition, the popular belief is that if you can learn C++, then any other language will not give you any trouble.
+It's kind of like how easy it is to try to switch from manual to automatic and how difficult it is to work the way back.
+Almost all popular programming languages that were invented later have simplified structures and mechanisms.
+The learning process is reduced to mastering syntax and software.
+This creates a whole army of programmers who just don't understand what they are building in half of the code.
+Fundamental lexical elements of a C++ program: tokens, comments, operators, keywords, punctuators, literals.
+Also, file translation, operator precedence/associativity.
