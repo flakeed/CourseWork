@@ -7,4 +7,4 @@ Almost all popular programming languages that were invented later have simplifie
 The learning process is reduced to mastering syntax and software.
 This creates a whole army of programmers who just don't understand what they are building in half of the code.
 Fundamental lexical elements of a C++ program: tokens, comments, operators, keywords, punctuators, literals.
-Also, file translation, operator precedence/associativity.
+Also, file translation, operator precedence,associativity.
