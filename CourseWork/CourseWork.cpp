@@ -1,4 +1,5 @@
-﻿#define _CRT_SECURE_NO_WARNINGS
+//course work variant 11
+#define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <string>
 #include <fstream>
